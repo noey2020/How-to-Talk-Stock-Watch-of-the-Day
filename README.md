@@ -6,6 +6,15 @@ I appreciate comments. Shoot me an email at noel_s_cruz@yahoo.com!
 
 Hire me! 😊
 
+(Reuters) - Intel Corp <INTC.O> on Wednesday unveiled "Tiger Lake," the 11th
+generation version of its flagship chip for laptops that it hopes will help it 
+regain lost market share and counter forthcoming Apple Inc <AAPL.O> machines with
+Apple-designed chips.
+
+Intel said the chips use a new manufacturing technique and other tweaks that make
+them more powerful at tasks such as using artificial intelligence to reduce
+background noise during video calls.
+
 Intel Corp reported revenue of 72.0B for FY 2019, an increase of 21.18% compared to 
 FY 2016. Net income grew 104.03% to 21.0B. Intel Corp reported total assets of 136.5B
 for FY 2019, an increase of 20.47% compared to FY 2016. Debt to Assets is 21.24%.
