@@ -15,6 +15,27 @@ Intel said the chips use a new manufacturing technique and other tweaks that mak
 them more powerful at tasks such as using artificial intelligence to reduce
 background noise during video calls.
 
+The company said it worked with laptop makers including Dell Technologies Inc 
+<DELL.N> and Samsung Electronics Co Ltd <005930.KS> and that 50 machines from 
+different makers will be available for the holiday shopping season.
+
+The Tiger Lake processors come as Intel, one of the few chip companies that both
+designs and makes its own chips, has struggled with manufacturing delays. The
+company has started to lose market share to rivals such as Advanced Micro Devices
+Inc <AMD.O> that use outside manufacturers such as Taiwan Semiconductor
+Manufacturing Co <2330.TW>.
+
+In a pre-recorded presentation streamed on Wednesday, Intel executives focused on 
+real-world performance. Showcasing the new chip's graphics capability, Intel
+executives claimed better frame-rate performance than rival chips from Nvidia Corp
+<NVDA.O> and AMD, and presented a video clip of a young gamer beating her father
+while his laptop lagged.
+
+Intel announced a new co-brand for Project Athena laptops, co-engineered with 
+manufacturers, that use Tiger Lake chips called "Intel Evo." The project is aimed
+at boosting consumer confidence in sometimes-disappointing claims about features
+such as battery life.
+
 Intel Corp reported revenue of 72.0B for FY 2019, an increase of 21.18% compared to 
 FY 2016. Net income grew 104.03% to 21.0B. Intel Corp reported total assets of 136.5B
 for FY 2019, an increase of 20.47% compared to FY 2016. Debt to Assets is 21.24%.
